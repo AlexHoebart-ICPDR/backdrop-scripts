@@ -22,5 +22,5 @@ bee cache-clear all
 echo Leaving maintenance mode...
 bee maintenance-mode 0
 
-echo Update finished! Please review the site is working.
-echo Don not forget to clean up files with step 3.
+echo Update finished! Please check if the site is working as expected.
+echo Do not forget to clean up files with step 3.
